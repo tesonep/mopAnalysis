@@ -1,0 +1,15 @@
+{
+	"category" : "MopAnalysis",
+	"classinstvars" : [
+		"inCoverage" ],
+	"classvars" : [
+		"CoverageAnalysis",
+		"ListenedMethods" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"delegate" ],
+	"name" : "CoverageAnalysis",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

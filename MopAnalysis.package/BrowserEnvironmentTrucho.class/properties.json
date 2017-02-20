@@ -1,0 +1,14 @@
+{
+	"category" : "MopAnalysis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classes" ],
+	"name" : "BrowserEnvironmentTrucho",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
